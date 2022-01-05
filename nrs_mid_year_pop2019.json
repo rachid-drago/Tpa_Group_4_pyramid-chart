@@ -1,0 +1,548 @@
+[
+    {
+        "Age": "0",
+        "Persons": "50772",
+        "Males": "26138",
+        "Females": "24634"
+    },
+    {
+        "Age": "1",
+        "Persons": "52734",
+        "Males": "27059",
+        "Females": "25675"
+    },
+    {
+        "Age": "2",
+        "Persons": "54266",
+        "Males": "28045",
+        "Females": "26221"
+    },
+    {
+        "Age": "3",
+        "Persons": "56539",
+        "Males": "29267",
+        "Females": "27272"
+    },
+    {
+        "Age": "4",
+        "Persons": "57404",
+        "Males": "29473",
+        "Females": "27931"
+    },
+    {
+        "Age": "5",
+        "Persons": "57837",
+        "Males": "29750",
+        "Females": "28087"
+    },
+    {
+        "Age": "6",
+        "Persons": "59032",
+        "Males": "30203",
+        "Females": "28829"
+    },
+    {
+        "Age": "7",
+        "Persons": "60560",
+        "Males": "31168",
+        "Females": "29392"
+    },
+    {
+        "Age": "8",
+        "Persons": "62408",
+        "Males": "31913",
+        "Females": "30495"
+    },
+    {
+        "Age": "9",
+        "Persons": "59479",
+        "Males": "30263",
+        "Females": "29216"
+    },
+    {
+        "Age": "10",
+        "Persons": "61119",
+        "Males": "31119",
+        "Females": "30000"
+    },
+    {
+        "Age": "11",
+        "Persons": "60860",
+        "Males": "30969",
+        "Females": "29891"
+    },
+    {
+        "Age": "12",
+        "Persons": "58512",
+        "Males": "29924",
+        "Females": "28588"
+    },
+    {
+        "Age": "13",
+        "Persons": "57366",
+        "Males": "29231",
+        "Females": "28135"
+    },
+    {
+        "Age": "14",
+        "Persons": "56817",
+        "Males": "29244",
+        "Females": "27573"
+    },
+    {
+        "Age": "15",
+        "Persons": "55692",
+        "Males": "28678",
+        "Females": "27014"
+    },
+    {
+        "Age": "16",
+        "Persons": "54052",
+        "Males": "27624",
+        "Females": "26428"
+    },
+    {
+        "Age": "17",
+        "Persons": "53713",
+        "Males": "27457",
+        "Females": "26256"
+    },
+    {
+        "Age": "18",
+        "Persons": "56834",
+        "Males": "28903",
+        "Females": "27931"
+    },
+    {
+        "Age": "19",
+        "Persons": "61667",
+        "Males": "31510",
+        "Females": "30157"
+    },
+    {
+        "Age": "20",
+        "Persons": "65838",
+        "Males": "33412",
+        "Females": "32426"
+    },
+    {
+        "Age": "21",
+        "Persons": "67735",
+        "Males": "34303",
+        "Females": "33432"
+    },
+    {
+        "Age": "22",
+        "Persons": "70870",
+        "Males": "35814",
+        "Females": "35056"
+    },
+    {
+        "Age": "23",
+        "Persons": "71430",
+        "Males": "36286",
+        "Females": "35144"
+    },
+    {
+        "Age": "24",
+        "Persons": "71583",
+        "Males": "36251",
+        "Females": "35332"
+    },
+    {
+        "Age": "25",
+        "Persons": "73182",
+        "Males": "36890",
+        "Females": "36292"
+    },
+    {
+        "Age": "26",
+        "Persons": "74857",
+        "Males": "37228",
+        "Females": "37629"
+    },
+    {
+        "Age": "27",
+        "Persons": "79127",
+        "Males": "39349",
+        "Females": "39778"
+    },
+    {
+        "Age": "28",
+        "Persons": "79100",
+        "Males": "39702",
+        "Females": "39398"
+    },
+    {
+        "Age": "29",
+        "Persons": "75989",
+        "Males": "37976",
+        "Females": "38013"
+    },
+    {
+        "Age": "30",
+        "Persons": "75648",
+        "Males": "37656",
+        "Females": "37992"
+    },
+    {
+        "Age": "31",
+        "Persons": "75743",
+        "Males": "37555",
+        "Females": "38188"
+    },
+    {
+        "Age": "32",
+        "Persons": "73301",
+        "Males": "36029",
+        "Females": "37272"
+    },
+    {
+        "Age": "33",
+        "Persons": "72691",
+        "Males": "36090",
+        "Females": "36601"
+    },
+    {
+        "Age": "34",
+        "Persons": "72080",
+        "Males": "35305",
+        "Females": "36775"
+    },
+    {
+        "Age": "35",
+        "Persons": "69835",
+        "Males": "34205",
+        "Females": "35630"
+    },
+    {
+        "Age": "36",
+        "Persons": "70584",
+        "Males": "34472",
+        "Females": "36112"
+    },
+    {
+        "Age": "37",
+        "Persons": "71428",
+        "Males": "34755",
+        "Females": "36673"
+    },
+    {
+        "Age": "38",
+        "Persons": "70962",
+        "Males": "34853",
+        "Females": "36109"
+    },
+    {
+        "Age": "39",
+        "Persons": "69713",
+        "Males": "34339",
+        "Females": "35374"
+    },
+    {
+        "Age": "40",
+        "Persons": "67127",
+        "Males": "33353",
+        "Females": "33774"
+    },
+    {
+        "Age": "41",
+        "Persons": "62229",
+        "Males": "30309",
+        "Females": "31920"
+    },
+    {
+        "Age": "42",
+        "Persons": "61101",
+        "Males": "30279",
+        "Females": "30822"
+    },
+    {
+        "Age": "43",
+        "Persons": "64358",
+        "Males": "31511",
+        "Females": "32847"
+    },
+    {
+        "Age": "44",
+        "Persons": "64617",
+        "Males": "31338",
+        "Females": "33279"
+    },
+    {
+        "Age": "45",
+        "Persons": "65725",
+        "Males": "32217",
+        "Females": "33508"
+    },
+    {
+        "Age": "46",
+        "Persons": "69677",
+        "Males": "34006",
+        "Females": "35671"
+    },
+    {
+        "Age": "47",
+        "Persons": "73842",
+        "Males": "35622",
+        "Females": "38220"
+    },
+    {
+        "Age": "48",
+        "Persons": "76666",
+        "Males": "36697",
+        "Females": "39969"
+    },
+    {
+        "Age": "49",
+        "Persons": "75548",
+        "Males": "36270",
+        "Females": "39278"
+    },
+    {
+        "Age": "50",
+        "Persons": "78567",
+        "Males": "37782",
+        "Females": "40785"
+    },
+    {
+        "Age": "51",
+        "Persons": "79919",
+        "Males": "38446",
+        "Females": "41473"
+    },
+    {
+        "Age": "52",
+        "Persons": "80362",
+        "Males": "39141",
+        "Females": "41221"
+    },
+    {
+        "Age": "53",
+        "Persons": "79788",
+        "Males": "38547",
+        "Females": "41241"
+    },
+    {
+        "Age": "54",
+        "Persons": "82454",
+        "Males": "40024",
+        "Females": "42430"
+    },
+    {
+        "Age": "55",
+        "Persons": "81429",
+        "Males": "39184",
+        "Females": "42245"
+    },
+    {
+        "Age": "56",
+        "Persons": "81224",
+        "Males": "39315",
+        "Females": "41909"
+    },
+    {
+        "Age": "57",
+        "Persons": "79062",
+        "Males": "38548",
+        "Females": "40514"
+    },
+    {
+        "Age": "58",
+        "Persons": "77036",
+        "Males": "37472",
+        "Females": "39564"
+    },
+    {
+        "Age": "59",
+        "Persons": "74372",
+        "Males": "36256",
+        "Females": "38116"
+    },
+    {
+        "Age": "60",
+        "Persons": "73504",
+        "Males": "35533",
+        "Females": "37971"
+    },
+    {
+        "Age": "61",
+        "Persons": "71388",
+        "Males": "34534",
+        "Females": "36854"
+    },
+    {
+        "Age": "62",
+        "Persons": "69244",
+        "Males": "33646",
+        "Females": "35598"
+    },
+    {
+        "Age": "63",
+        "Persons": "66867",
+        "Males": "32428",
+        "Females": "34439"
+    },
+    {
+        "Age": "64",
+        "Persons": "63690",
+        "Males": "30711",
+        "Females": "32979"
+    },
+    {
+        "Age": "65",
+        "Persons": "62599",
+        "Males": "30358",
+        "Females": "32241"
+    },
+    {
+        "Age": "66",
+        "Persons": "60993",
+        "Males": "29455",
+        "Females": "31538"
+    },
+    {
+        "Age": "67",
+        "Persons": "58595",
+        "Males": "28260",
+        "Females": "30335"
+    },
+    {
+        "Age": "68",
+        "Persons": "58657",
+        "Males": "28175",
+        "Females": "30482"
+    },
+    {
+        "Age": "69",
+        "Persons": "58600",
+        "Males": "28212",
+        "Females": "30388"
+    },
+    {
+        "Age": "70",
+        "Persons": "59394",
+        "Males": "28497",
+        "Females": "30897"
+    },
+    {
+        "Age": "71",
+        "Persons": "60782",
+        "Males": "29071",
+        "Females": "31711"
+    },
+    {
+        "Age": "72",
+        "Persons": "65059",
+        "Males": "30844",
+        "Females": "34215"
+    },
+    {
+        "Age": "73",
+        "Persons": "48394",
+        "Males": "22913",
+        "Females": "25481"
+    },
+    {
+        "Age": "74",
+        "Persons": "45227",
+        "Males": "21014",
+        "Females": "24213"
+    },
+    {
+        "Age": "75",
+        "Persons": "45388",
+        "Males": "21118",
+        "Females": "24270"
+    },
+    {
+        "Age": "76",
+        "Persons": "42595",
+        "Males": "19268",
+        "Females": "23327"
+    },
+    {
+        "Age": "77",
+        "Persons": "38406",
+        "Males": "17046",
+        "Females": "21360"
+    },
+    {
+        "Age": "78",
+        "Persons": "34798",
+        "Males": "15232",
+        "Females": "19566"
+    },
+    {
+        "Age": "79",
+        "Persons": "34764",
+        "Males": "15222",
+        "Females": "19542"
+    },
+    {
+        "Age": "80",
+        "Persons": "33039",
+        "Males": "14311",
+        "Females": "18728"
+    },
+    {
+        "Age": "81",
+        "Persons": "31191",
+        "Males": "13403",
+        "Females": "17788"
+    },
+    {
+        "Age": "82",
+        "Persons": "28436",
+        "Males": "11771",
+        "Females": "16665"
+    },
+    {
+        "Age": "83",
+        "Persons": "26237",
+        "Males": "10682",
+        "Females": "15555"
+    },
+    {
+        "Age": "84",
+        "Persons": "23904",
+        "Males": "9681",
+        "Females": "14223"
+    },
+    {
+        "Age": "85",
+        "Persons": "21126",
+        "Males": "8261",
+        "Females": "12865"
+    },
+    {
+        "Age": "86",
+        "Persons": "18701",
+        "Males": "7296",
+        "Females": "11405"
+    },
+    {
+        "Age": "87",
+        "Persons": "17001",
+        "Males": "6384",
+        "Females": "10617"
+    },
+    {
+        "Age": "88",
+        "Persons": "14569",
+        "Males": "5356",
+        "Females": "9213"
+    },
+    {
+        "Age": "89",
+        "Persons": "12032",
+        "Males": "4185",
+        "Females": "7847"
+    },
+    {
+        "Age": "90 & over",
+        "Persons": "43658",
+        "Males": "13411",
+        "Females": "30247"
+    }
+]
